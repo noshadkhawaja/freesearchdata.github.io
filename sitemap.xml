@@ -13,140 +13,14 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.freesearchdata.com/home.aspx</loc>
+  <loc>https://www.freesearchdata.com/index.html</loc>
   <lastmod>2020-09-07T10:46:08+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.freesearchdata.com/free/search.aspx</loc>
+  <loc>https://www.freesearchdata.com/live.html</loc>
   <lastmod>2020-09-07T10:46:08+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://www.freesearchdata.com/free/social-network.aspx</loc>
-  <lastmod>2020-09-07T10:46:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.freesearchdata.com/free/images.aspx</loc>
-  <lastmod>2020-09-07T10:46:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.freesearchdata.com/free/movies.aspx</loc>
-  <lastmod>2020-09-07T10:46:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.freesearchdata.com/free/news.aspx</loc>
-  <lastmod>2020-09-07T10:46:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.freesearchdata.com/free/web-hosting.aspx</loc>
-  <lastmod>2020-09-07T10:46:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.freesearchdata.com/free/file-hosting.aspx</loc>
-  <lastmod>2020-09-07T10:46:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.freesearchdata.com/howto/earn-youtube.aspx</loc>
-  <lastmod>2020-09-07T10:46:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.freesearchdata.com/howto/stock-market.aspx</loc>
-  <lastmod>2020-09-07T10:46:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.freesearchdata.com/learn/ielts.aspx</loc>
-  <lastmod>2020-09-07T10:46:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.freesearchdata.com/learn/ielts-resources.aspx</loc>
-  <lastmod>2020-09-07T10:46:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.freesearchdata.com/learn/kids-shows.aspx</loc>
-  <lastmod>2020-09-07T10:46:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.freesearchdata.com/learn/kids-games.aspx</loc>
-  <lastmod>2020-09-07T10:46:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.freesearchdata.com/download/music.aspx</loc>
-  <lastmod>2020-09-07T10:46:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.freesearchdata.com/download/fonts.aspx</loc>
-  <lastmod>2020-09-07T10:46:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.freesearchdata.com/download/software.aspx</loc>
-  <lastmod>2020-09-07T10:46:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.freesearchdata.com/download/android.aspx</loc>
-  <lastmod>2020-09-07T10:46:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.freesearchdata.com/download/ios.aspx</loc>
-  <lastmod>2020-09-07T10:46:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.freesearchdata.com/country/india-hospitals.aspx</loc>
-  <lastmod>2020-09-07T10:46:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.freesearchdata.com/country/india-stock.aspx</loc>
-  <lastmod>2020-09-07T10:46:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.freesearchdata.com/country/india-banks.aspx</loc>
-  <lastmod>2020-09-07T10:46:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.freesearchdata.com/country/india-universities.aspx</loc>
-  <lastmod>2020-09-07T10:46:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.freesearchdata.com/country/pakistan-hospitals.aspx</loc>
-  <lastmod>2020-09-07T10:46:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.freesearchdata.com/country/pakistan-stock.aspx</loc>
-  <lastmod>2020-09-07T10:46:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.freesearchdata.com/country/pakistan-banks.aspx</loc>
-  <lastmod>2020-09-07T10:46:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.freesearchdata.com/country/pakistan-universities.aspx</loc>
-  <lastmod>2020-09-07T10:46:08+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
 
 </urlset>
